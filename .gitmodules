@@ -4,6 +4,7 @@
 [submodule "src/ocean_BGC"]
 	path = src/ocean_BGC
 	url = https://github.com/ngam/ocean_BGC.git
+    branch = mscb
 [submodule "src/FMScoupler"]
 	path = src/FMScoupler
 	url = https://github.com/ngam/FMScoupler.git
