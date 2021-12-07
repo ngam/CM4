@@ -26,7 +26,7 @@
 [submodule "src/atmos_phys"]
 	path = src/atmos_phys
 	url = https://github.com/ngam/atmos_phys.git
-    branch = g4ss
+	branch = g4ss
 [submodule "src/atmos_drivers"]
 	path = src/atmos_drivers
 	url = https://github.com/ngam/atmos_drivers.git
