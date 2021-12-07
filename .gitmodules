@@ -4,7 +4,7 @@
 [submodule "src/ocean_BGC"]
 	path = src/ocean_BGC
 	url = https://github.com/ngam/ocean_BGC.git
-    branch = mscb
+    	branch = mscb
 [submodule "src/FMScoupler"]
 	path = src/FMScoupler
 	url = https://github.com/ngam/FMScoupler.git
@@ -26,7 +26,7 @@
 [submodule "src/atmos_phys"]
 	path = src/atmos_phys
 	url = https://github.com/ngam/atmos_phys.git
-    branch = g4ss
+    	branch = g4ss
 [submodule "src/atmos_drivers"]
 	path = src/atmos_drivers
 	url = https://github.com/ngam/atmos_drivers.git
